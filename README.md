@@ -1,2 +1,2 @@
 -> Widget App containing multiple widgets like a real time based Google Translate, real time based Wiki search...
--> Based on React Hooks and Router
+-> Based on React Hooks
